@@ -1,4 +1,4 @@
-def number():
+def number(a):
     print("Введите число")
     a=int(input())
     if a>=0:
